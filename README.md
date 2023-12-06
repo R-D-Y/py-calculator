@@ -24,7 +24,7 @@ cd py-calculator
 Install the package using pip:
 
 ```bash
-pip install .
+pip install decimal
 ```
 
 ## Usage
